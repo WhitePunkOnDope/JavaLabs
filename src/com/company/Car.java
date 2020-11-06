@@ -17,7 +17,7 @@ public class Car {
     public String getRegistrationNumber(){ return registrationNumber; }
 
     public String toString(){
-        return "-----------" + "\nID: " + this.id + "\nModel: " + this.model + "\nRegister number: "+ registrationNumber +
+        return "\nID: " + this.id + "\nModel: " + this.model + "\nRegister number: "+ registrationNumber +
                 "\nYear: " + this.yearOfProduction + "\nPrice: " + this.price;
     }
 

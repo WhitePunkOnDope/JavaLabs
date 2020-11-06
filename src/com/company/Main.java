@@ -3,7 +3,7 @@ package com.company;
 
 import com.company.Car;
 
-import java.util.Random;
+
 import java.util.Scanner;
 
 public class Main {
